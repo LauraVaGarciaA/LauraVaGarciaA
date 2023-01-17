@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laura Valentina García Álvarez</h1>
+<h1 align="center">Hi 👋, I'm Laura García</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <img align="right" alt="Woman Developer" width="400" src="https://www.dice.com/binaries/content/gallery/dice/insights/2018/01/Freelance-Developer-Dice.jpeg">
